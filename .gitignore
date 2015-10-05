@@ -1,0 +1,8 @@
+.packages
+build
+pubspec.lock
+.pub
+.idea
+*.iml
+*.ipr
+packages

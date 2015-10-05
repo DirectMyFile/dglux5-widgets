@@ -1,0 +1,7 @@
+name: dglux_widgets
+description: DGLux5 Widgets
+dependencies:
+  browser: any
+  script_inliner: "^1.0.0"
+transformers:
+- script_inliner
